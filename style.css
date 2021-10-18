@@ -1,0 +1,91 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    line-height: 4.0;
+
+}
+
+a{
+    text-decoration: none;
+    color: navy;
+}
+
+a:hover{
+        color: red;
+
+}
+
+
+body {
+    background-color: skyblue;
+    font-family: 'Times New Roman', 'Times', 'serif';
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+h1
+h2
+h3 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+/*HEADER*/
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+    line-height: 1.0;
+}
+
+header {
+
+padding: 10px;
+font-family: cursive;
+}
+
+nav {
+    
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    line-height: 5.0;
+    font-weight: bolder;
+    
+}
+
+.Catagories {
+    font-family: cursive;
+    font-size: 35px;
+    border-bottom: double 13px;
+   
+}
+
+
+li {
+    line-height: 2.0;
+    text-align: left;
+    padding-bottom: 6px;
+    border-bottom: dotted 1px;
+
+}
+
+img {
+    
+}
+
+p {
+    line-height: 2.0;
+}
+
+
+
+
+
